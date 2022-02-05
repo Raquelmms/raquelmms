@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
 - 📫 Contate-me no email: raqueldemedeirosmartins@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/raquelmms">
