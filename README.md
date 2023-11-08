@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/raquel-martins-17b194171/"><i>Raquel Martins</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web FullStack na <i>Labenu</i>
+  <p align="center">Sou desenvolvedora Backend na <i>Taqtile</i>
     
 </div>
 
